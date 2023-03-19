@@ -1,0 +1,25 @@
+{
+
+	"$schema": "../schemas/domain.schema.json",
+
+	"description": "run just for my test",
+
+	"domain": "is-local.org",
+
+	"subdomain": "samvtech",
+
+	"owner": {
+
+		"email": "sa.mi@hi2.in"
+
+	},
+
+	"record": {
+
+		"NS": ["lola.ns.cloudflare.com", "vicky.ns.cloudflare.com"]
+
+	},
+
+	"proxy": false
+
+}
